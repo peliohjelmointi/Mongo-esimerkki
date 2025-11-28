@@ -7,4 +7,6 @@ Voit kirjautua /login -reitissä (johon / -reitti ohjaa) seuraavasti:
 käyttäjänimi:joulupukki
 salasana:joulu
 
-Käyttäjänimellä on vain luku-oikeudet, eli et voi tallentaa tai päivittää blogeja, mutta näet, miten ohjelma muuten toimii koodeineen.
+Käyttäjänimellä on vain lukuoikeudet, eli et voi tallentaa tai päivittää blogeja, mutta näet, miten ohjelma muuten toimii koodeineen.
+
+Mikäli joulupukki-käyttäjällä olisi täydet käyttöoikeudet, uutta käyttäjää lisätessä tai päivittäessä olemassa olevaa käyttäjää, kanta päivitettäisiin ja tämän jälkeen näytettäisiin taas kaikki blogit.
